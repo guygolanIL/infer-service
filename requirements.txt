@@ -1,0 +1,7 @@
+transformers
+torch
+opencv-python-headless
+python-multipart
+torchvision
+numpy
+pillow
